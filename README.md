@@ -1,8 +1,8 @@
 # uefa-champions-league_data_2002-2023
 Champions League data from 2002-2023 (2023 up-to-date until 06/02/2023)  
 
-Note: 2014-2015 is the first season that includes **'Time'** & **'Attendance'** data, this is not included in any seasons prior.  
-Note: 2016-2017 is the first season the **'xG'** columns are available and also the **'Extra Time Required'** column, this is not included in any seasons prior.  
+**Note**: 2014-2015 is the first season that includes **'Time'** & **'Attendance'** data, this is not included in any seasons prior.  
+**Note**: 2016-2017 is the first season the **'xG'** columns are available and also the **'Extra Time Required'** column, this is not included in any seasons prior.  
 
 **Raw data included (from FBRef.com)**  
 
